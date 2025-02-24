@@ -6,7 +6,7 @@
 - 🚀 **AntiCheat Bypass** – обход многих античитов  
 - 🛠 **Legit & Rage Modes** – настройка чита под ваш стиль игры  
 ## 📥 Installation
-1. **Download** the cheat from [https://www.mediafire.com/file/cir7ldeviwn6eec/Vape+V4.rar/file](#) 
+1. **Download** the cheat from Mediafire or Github
 2. **Extract** the archive  
 3. **Run the injector** and select the Vape V4   
 4. **Inject** into Minecraft  
